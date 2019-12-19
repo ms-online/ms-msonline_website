@@ -1,1 +1,1 @@
-lesson-6:contact us及footer页面制作
+lesson-7:项目响应式设计制作
